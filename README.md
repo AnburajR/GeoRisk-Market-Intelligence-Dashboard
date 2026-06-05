@@ -131,17 +131,18 @@ Highlights
 - INR weakened against the USD during major global disruptions.
 
 ## Dashboard Preview
-Executive Overview
-!(images/Executive.png)
 
-Oil Analysis
-!(images/Oil.png)
+### Executive Overview
+![Executive_Overview](images/Executive.png)
 
-Commodity Impact Analysis
-!(images/Commodity.png)
+### Oil Analysis
+![Oil Analysis](images/Oil.png)
 
-Safe Haven Assets
-(images/SafeHaven.png)
+### Commodity Impact Analysis
+![Commodity Impact](images/Commodity.png)
+
+### Safe Haven Assets
+![Safe Haven Assets](images/SafeHaven.png)
 
 ## Project Outcomes
 
