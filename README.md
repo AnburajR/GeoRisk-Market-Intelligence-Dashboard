@@ -1,6 +1,6 @@
-# Geopolitical-Market-Intelligence-dashboard
+# GeoRisk Market Intelligence Dashboard
 
-Geopolitical-Market-Intelligence-dashboard is a multi-page Power BI dashboard designed to analyze how geopolitical disruptions impact global financial markets, commodities, and safe-haven assets.
+A multi-page Power BI dashboard designed to analyze how geopolitical disruptions impact global financial markets, commodities, and safe-haven assets.
 
 The dashboard tracks the market response during major global events including:
 
