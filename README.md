@@ -138,16 +138,16 @@ Highlights
 - Iran escalation events produced localized commodity and energy market reactions rather than broad market disruptions.
   
 ## Recommendations
-# Monitor Energy Markets as Early Warning Indicators
+1. Monitor Energy Markets as Early Warning Indicators
 - Brent crude oil and Natural Gas consistently showed strong reactions during major geopolitical disruptions. Tracking energy commodities can provide early signals of emerging market stress.
 
-# Use Regime-Based Analysis for Better Context
+2. Use Regime-Based Analysis for Better Context
 - Market behavior differed significantly across the COVID, Recovery, and Iran Escalation periods. Segmenting data into market regimes improves interpretation compared to analyzing the entire time series as a single period.
 
-# Track Multiple Asset Classes Simultaneously
+3. Track Multiple Asset Classes Simultaneously
 - Geopolitical events impacted oil, commodities, currencies, and safe-haven assets differently. A multi-asset monitoring approach provides a more complete view of market risk.
 
-# Include Safe-Haven Indicators in Risk Assessment
+4. Include Safe-Haven Indicators in Risk Assessment
 - Gold and the US Dollar provided valuable signals during periods of uncertainty. Monitoring defensive assets can help identify shifts in market sentiment.
 
 
