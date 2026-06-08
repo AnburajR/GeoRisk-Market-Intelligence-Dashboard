@@ -115,24 +115,24 @@ Highlights
 
 ## Key Insights
 
-# Oil Markets
+## Oil Markets
 - Brent crude recorded a maximum daily gain of 21.02% and a maximum decline of -24.40%.
 - Oil markets reacted most strongly during major geopolitical and economic disruptions.
 - COVID-era volatility produced more shock days than later crisis periods.
   
-# Energy Commodities
+## Energy Commodities
 - Natural Gas showed the largest commodity price swings among the tracked commodities.
 - Energy-related assets reacted faster than industrial and agricultural commodities during market stress.
   
-# Commodity Impact
+## Commodity Impact
 - Wheat experienced significant price spikes during supply-chain disruptions and geopolitical tensions.
 - Copper movements reflected broader industrial and economic expectations rather than immediate crisis reactions.
   
-# Safe-Haven Assets
+## Safe-Haven Assets
 - Gold generally strengthened during periods of uncertainty and elevated market risk.
 - The US Dollar remained resilient during risk-off environments, reinforcing its role as a defensive asset.
   
-# Market Regimes
+## Market Regimes
 - The COVID period generated the highest concentration of market shocks.
 - Recovery periods showed lower volatility and more stable market behavior.
 - Iran escalation events produced localized commodity and energy market reactions rather than broad market disruptions.
